@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SetupDrawer</string>
+
+    <string name="nav_payment">Payments</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_account">Accounts</string>
+    <string name="nav_organization">Organizations</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
+
